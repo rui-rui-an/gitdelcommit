@@ -2,6 +2,8 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <el-button type="primary">element的按钮</el-button>
+    <el-button type="primary">element的按钮1</el-button>
+    <el-button type="primary">element的按钮2</el-button>
     <HelloWorld msg="Welcome to Your Vue.js App" />
     <div>功能33333333333333</div>
     <div>功能33333333333333</div>
